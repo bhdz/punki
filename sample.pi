@@ -94,9 +94,8 @@ fruits = [ "apple" "orange" "banana" ]
 eat (Person "Boril") fruits#1
 
 vocabulary = {
-    'insult;standard': 'fuck you' 'curse;standard': 'damn it!'
-    'surprise;standard': 'oh shit!' "amazement;standard':'daaaaaaym!'
-    'famous-last-words': 'Meh, it\'s always gonna work'
+    'greetings': 'Hello there %s' 'question': 'why?'
+    'the number': 42
 }
 
 # Default parameters
