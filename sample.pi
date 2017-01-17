@@ -91,7 +91,7 @@ eat: me food_item =
     print me.name "eats a" (str food_item) ". Very tasty"
     
 fruits = [ "apple" "orange" "banana" ]
-eat (Person "Boril") fruits#1
+eat (Person "Boril") fruits { %1 }; eat (Person "Bhdz") fruits { %2 }; yes (echo "[:BLA,[:BLA]]")
 
 #
 #: HAHA { LOL; CAPTAIN NEMO TOOK KONTROLZ; LULZ FOR THIS HERO; STUPID IDIOT }
