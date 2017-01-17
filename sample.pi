@@ -93,10 +93,22 @@ eat: me food_item =
 fruits = [ "apple" "orange" "banana" ]
 eat (Person "Boril") fruits#1
 
-vocabulary = {
+#
+#: HAHA { LOL; CAPTAIN NEMO TOOK KONTROLZ; LULZ FOR THIS HERO; STUPID IDIOT }
+#
+vocabulary = [
     'greetings': 'Hello there %s' 'question': 'why?'
     'the number': 42
-}
+#}]] SYMBOLIK_POLUTLUTION_IS { % REAL }
+]
+#
+#
+#
+#: DEAR PUNKI { PLEASE; REFER; WITH; THESE; SYMBOLS;-TO; --DICTS; AND; --LISTS }
+#: THANK { YOU; LOVE; [[ <3]]; ~WAVE-ICLE }
+#: TODO {MUST; -FIXX; SYNTAX; *MUST; -0- FIXX --0 SYNTAX; ...}
+#: DONE {SYNTAXX; FIXX; -AH YEEEAAH; *LOL; **LULZ; \A{{BIT; BOT; TOOKEN; -JS; SKRIPTEN; BAD BAD BAD BAD; DIE!! DIE!! DIE!!}}  }
+#
 
 # Default parameters
 say: something who?"Joe Random" =
